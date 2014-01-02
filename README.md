@@ -3,15 +3,18 @@ download-programming-ebooks
 
 Download free programming eBooks with pdf or epub format
 
+A Peek at Computer Electronics
+------------------------------
+
 <table>
     <tr>
-        <td rowspan="8">
+        <td rowspan="7">
             <img src="http://it-ebooks.info/images/ebooks/1/a_peek_at_computer_electronics.jpg">
         </td>
     </tr>
     <tr>
-        <td>Title:</td>
-        <td>A Peek at Computer Electronics</td>
+        <td>Author:</td>
+        <td>Caleb Tennis</td>
     </tr>
     <tr>
         <td>ISBN:</td>
