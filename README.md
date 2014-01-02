@@ -35,6 +35,6 @@ Download free programming eBooks with pdf or epub format
     </tr>
     <tr>
         <td>Download:</td>
-        <td>http://www.eazydoc.com/rD</td>
+        <td><a title="Download A Peek at Computer Electronics pdf" href="http://www.eazydoc.com/rD">http://www.eazydoc.com/rD</a></td>
     </tr>
 </table>
