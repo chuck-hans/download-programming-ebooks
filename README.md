@@ -2,3 +2,39 @@ download-programming-ebooks
 ===========================
 
 Download free programming eBooks with pdf or epub format
+
+<table>
+    <tr>
+        <td rowspan="8">
+            <img src="http://it-ebooks.info/images/ebooks/1/a_peek_at_computer_electronics.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td>Title:</td>
+        <td>A Peek at Computer Electronics</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-0-9776-1668-8</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>5.52MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>250</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2007</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>The Pragmatic Programmers</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td>http://www.eazydoc.com/rD</td>
+    </tr>
+</table>
