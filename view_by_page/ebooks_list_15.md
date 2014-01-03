@@ -1,39 +1,3 @@
-### 1400. Professional iOS Network Programming
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="Professional iOS Network Programming" src="http://it-ebooks.info/images/ebooks/2/professional_ios_network_programming.jpg">
-        </td>
-        <td>Author:</td>
-        <td>Jack Cox, Nathan Jones, John Szumski</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-1-1183-6240-2</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>14.8 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>360</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2012</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>Wrox</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download Professional iOS Network Programming pdf" href="http://www.eazydoc.com/39l">http://www.eazydoc.com/39l</a></td>
-    </tr>
-</table>
-
 ### 1401. Professional Android Open Accessory Programming with Arduino
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download Beginning J2ME, 3rd Edition pdf" href="http://www.eazydoc.com/5Me">http://www.eazydoc.com/5Me</a></td>
+    </tr>
+</table>
+
+### 1500. Expert Visual C++/CLI
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="Expert Visual C++/CLI" src="http://it-ebooks.info/images/ebooks/6/expert_visual_ccli.jpg">
+        </td>
+        <td>Author:</td>
+        <td>Marcus Heege</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-1-59059-756-9</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>3.1 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>352</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2007</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>Apress</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download Expert Visual C++/CLI pdf" href="http://www.eazydoc.com/5Mf">http://www.eazydoc.com/5Mf</a></td>
     </tr>
 </table>
 

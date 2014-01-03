@@ -1,39 +1,3 @@
-### 2500. Windows PowerShell 3.0 First Steps
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="Windows PowerShell 3.0 First Steps" src="http://it-ebooks.info/images/ebooks/8/windows_powershell_3.0_first_steps.jpg">
-        </td>
-        <td>Author:</td>
-        <td>Ed Wilson</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-0-73568-100-2</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>18.9 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>280</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2013</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>Microsoft Press</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download Windows PowerShell 3.0 First Steps pdf" href="http://www.eazydoc.com/3r5">http://www.eazydoc.com/3r5</a></td>
-    </tr>
-</table>
-
 ### 2501. Microsoft ADO.NET Entity Framework Step by Step
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download Build Your Own Wicked Wordpress Themes pdf" href="http://www.eazydoc.com/63X">http://www.eazydoc.com/63X</a></td>
+    </tr>
+</table>
+
+### 2600. The Principles of Beautiful Web Design, 2nd Edition
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="The Principles of Beautiful Web Design, 2nd Edition" src="http://it-ebooks.info/images/ebooks/7/the_principles_of_beautiful_web_design_2nd_edition.jpg">
+        </td>
+        <td>Author:</td>
+        <td>Jason Beaird</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-0-98057-689-4</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>15.4 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>170</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2010</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>SitePoint</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download The Principles of Beautiful Web Design, 2nd Edition pdf" href="http://www.eazydoc.com/63Y">http://www.eazydoc.com/63Y</a></td>
     </tr>
 </table>
 

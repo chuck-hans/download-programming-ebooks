@@ -1,39 +1,3 @@
-### 1500. Expert Visual C++/CLI
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="Expert Visual C++/CLI" src="http://it-ebooks.info/images/ebooks/6/expert_visual_ccli.jpg">
-        </td>
-        <td>Author:</td>
-        <td>Marcus Heege</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-1-59059-756-9</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>3.1 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>352</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2007</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>Apress</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download Expert Visual C++/CLI pdf" href="http://www.eazydoc.com/5Mf">http://www.eazydoc.com/5Mf</a></td>
-    </tr>
-</table>
-
 ### 1501. Pro JavaScript Design Patterns
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download Tika in Action pdf" href="http://www.eazydoc.com/3cy">http://www.eazydoc.com/3cy</a></td>
+    </tr>
+</table>
+
+### 1600. OSGi in Depth
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="OSGi in Depth" src="http://it-ebooks.info/images/ebooks/5/osgi_in_depth.jpg">
+        </td>
+        <td>Author:</td>
+        <td>Alexandre de Castro Alves, David Bosschaert</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-1-93518-217-7</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>11.8 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>392</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2011</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>Manning</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download OSGi in Depth pdf" href="http://www.eazydoc.com/3cz">http://www.eazydoc.com/3cz</a></td>
     </tr>
 </table>
 

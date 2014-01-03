@@ -1,39 +1,3 @@
-### 300. GNU Emacs Pocket Reference
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="GNU Emacs Pocket Reference" src="http://it-ebooks.info/images/ebooks/3/gnu_emacs_pocket_reference.jpg">
-        </td>
-        <td>Author:</td>
-        <td>Debra Cameron</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-1-56592-496-3</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>0.7 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>62</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>1998</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>O'Reilly Media</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download GNU Emacs Pocket Reference pdf" href="http://www.eazydoc.com/2RB">http://www.eazydoc.com/2RB</a></td>
-    </tr>
-</table>
-
 ### 301. Programming Firefox
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download Head First HTML5 Programming pdf" href="http://www.eazydoc.com/2Tc">http://www.eazydoc.com/2Tc</a></td>
+    </tr>
+</table>
+
+### 400. JavaScript: The Definitive Guide, 6th Edition
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="JavaScript: The Definitive Guide, 6th Edition" src="http://it-ebooks.info/images/ebooks/3/javascript_the_definitive_guide_6th_edition.jpg">
+        </td>
+        <td>Author:</td>
+        <td>David Flanagan</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-0-596-80552-4</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>13.4 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>1098</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2011</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>O'Reilly Media</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download JavaScript: The Definitive Guide, 6th Edition pdf" href="http://www.eazydoc.com/2Td">http://www.eazydoc.com/2Td</a></td>
     </tr>
 </table>
 

@@ -1,39 +1,3 @@
-### 2900. Apple Motion 5 Cookbook
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="Apple Motion 5 Cookbook" src="http://it-ebooks.info/images/ebooks/14/apple_motion_5_cookbook.jpg">
-        </td>
-        <td>Author:</td>
-        <td>Nick Harauz</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-1-84969-380-6</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>14.4 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>416</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2013</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>Packt Publishing</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download Apple Motion 5 Cookbook pdf" href="http://www.eazydoc.com/3xv">http://www.eazydoc.com/3xv</a></td>
-    </tr>
-</table>
-
 ### 2901. Raspberry Pi for Secret Agents
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download Intel Trusted Execution Technology for Server Platforms pdf" href="http://www.eazydoc.com/3z6">http://www.eazydoc.com/3z6</a></td>
+    </tr>
+</table>
+
+### 3000. Pro JPA 2, 2nd Edition
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="Pro JPA 2, 2nd Edition" src="http://it-ebooks.info/images/ebooks/6/pro_jpa_2_2nd_edition.jpg">
+        </td>
+        <td>Author:</td>
+        <td>Mike Keith, Merrick Schincariol</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-1-4302-4926-9</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>3.7 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>508</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2013</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>Apress</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download Pro JPA 2, 2nd Edition pdf" href="http://www.eazydoc.com/3z7">http://www.eazydoc.com/3z7</a></td>
     </tr>
 </table>
 

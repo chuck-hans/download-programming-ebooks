@@ -1,39 +1,3 @@
-### 2700. Clojure Data Analysis Cookbook
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="Clojure Data Analysis Cookbook" src="http://it-ebooks.info/images/ebooks/14/clojure_data_analysis_cookbook.jpg">
-        </td>
-        <td>Author:</td>
-        <td>Eric Rochester</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-1-78216-264-3</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>3.5 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>342</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2013</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>Packt Publishing</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download Clojure Data Analysis Cookbook pdf" href="http://www.eazydoc.com/3ui">http://www.eazydoc.com/3ui</a></td>
-    </tr>
-</table>
-
 ### 2701. Hadoop: Beginner's Guide
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download OpenCms 7 Development pdf" href="http://www.eazydoc.com/67b">http://www.eazydoc.com/67b</a></td>
+    </tr>
+</table>
+
+### 2800. MySQL 5.1 Plugin Development
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="MySQL 5.1 Plugin Development" src="http://it-ebooks.info/images/ebooks/14/mysql_5.1_plugin_development.jpg">
+        </td>
+        <td>Author:</td>
+        <td>Andrew Hutchings, Sergei Golubchik</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-1-84951-060-8</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>15 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>288</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2010</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>Packt Publishing</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download MySQL 5.1 Plugin Development pdf" href="http://www.eazydoc.com/67c">http://www.eazydoc.com/67c</a></td>
     </tr>
 </table>
 

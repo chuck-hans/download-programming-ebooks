@@ -1,39 +1,3 @@
-### 3000. Pro JPA 2, 2nd Edition
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="Pro JPA 2, 2nd Edition" src="http://it-ebooks.info/images/ebooks/6/pro_jpa_2_2nd_edition.jpg">
-        </td>
-        <td>Author:</td>
-        <td>Mike Keith, Merrick Schincariol</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-1-4302-4926-9</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>3.7 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>508</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2013</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>Apress</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download Pro JPA 2, 2nd Edition pdf" href="http://www.eazydoc.com/3z7">http://www.eazydoc.com/3z7</a></td>
-    </tr>
-</table>
-
 ### 3001. Cryptography in C & C++, 2nd Edition
 
 <table>

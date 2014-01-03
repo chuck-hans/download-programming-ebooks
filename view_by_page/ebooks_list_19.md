@@ -1,39 +1,3 @@
-### 1800. History of Programming Languages
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="History of Programming Languages" src="http://it-ebooks.info/images/ebooks/10/history_of_programming_languages.jpg">
-        </td>
-        <td>Author:</td>
-        <td>Thomas J. Bergin, Richard G. Gibson</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-0-201-89502-5</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>20.5 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>864</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>1996</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>Addison-Wesley</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download History of Programming Languages pdf" href="http://www.eazydoc.com/5R5">http://www.eazydoc.com/5R5</a></td>
-    </tr>
-</table>
-
 ### 1801. Learning Android Game Programming
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download Professional Flash Lite Mobile Development pdf" href="http://www.eazydoc.com/3ho">http://www.eazydoc.com/3ho</a></td>
+    </tr>
+</table>
+
+### 1900. Professional Alfresco
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="Professional Alfresco" src="http://it-ebooks.info/images/ebooks/2/professional_alfresco.jpg">
+        </td>
+        <td>Author:</td>
+        <td>David Caruana, John Newton, Michael Farman, Michael Uzquiano, Kevin Roast</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-0-470-57104-0</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>18.3 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>576</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2010</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>Wrox</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download Professional Alfresco pdf" href="http://www.eazydoc.com/3hp">http://www.eazydoc.com/3hp</a></td>
     </tr>
 </table>
 

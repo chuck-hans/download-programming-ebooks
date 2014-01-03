@@ -1,39 +1,3 @@
-### 2800. MySQL 5.1 Plugin Development
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="MySQL 5.1 Plugin Development" src="http://it-ebooks.info/images/ebooks/14/mysql_5.1_plugin_development.jpg">
-        </td>
-        <td>Author:</td>
-        <td>Andrew Hutchings, Sergei Golubchik</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-1-84951-060-8</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>15 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>288</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2010</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>Packt Publishing</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download MySQL 5.1 Plugin Development pdf" href="http://www.eazydoc.com/67c">http://www.eazydoc.com/67c</a></td>
-    </tr>
-</table>
-
 ### 2801. PHP 5 E-commerce Development
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download Xcode 4 Cookbook pdf" href="http://www.eazydoc.com/3xu">http://www.eazydoc.com/3xu</a></td>
+    </tr>
+</table>
+
+### 2900. Apple Motion 5 Cookbook
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="Apple Motion 5 Cookbook" src="http://it-ebooks.info/images/ebooks/14/apple_motion_5_cookbook.jpg">
+        </td>
+        <td>Author:</td>
+        <td>Nick Harauz</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-1-84969-380-6</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>14.4 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>416</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2013</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>Packt Publishing</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download Apple Motion 5 Cookbook pdf" href="http://www.eazydoc.com/3xv">http://www.eazydoc.com/3xv</a></td>
     </tr>
 </table>
 

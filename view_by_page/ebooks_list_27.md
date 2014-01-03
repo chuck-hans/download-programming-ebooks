@@ -1,39 +1,3 @@
-### 2600. The Principles of Beautiful Web Design, 2nd Edition
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="The Principles of Beautiful Web Design, 2nd Edition" src="http://it-ebooks.info/images/ebooks/7/the_principles_of_beautiful_web_design_2nd_edition.jpg">
-        </td>
-        <td>Author:</td>
-        <td>Jason Beaird</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-0-98057-689-4</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>15.4 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>170</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2010</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>SitePoint</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download The Principles of Beautiful Web Design, 2nd Edition pdf" href="http://www.eazydoc.com/63Y">http://www.eazydoc.com/63Y</a></td>
-    </tr>
-</table>
-
 ### 2601. Crafting Rails 4 Applications
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download Unity 4.x Game AI Programming pdf" href="http://www.eazydoc.com/3uh">http://www.eazydoc.com/3uh</a></td>
+    </tr>
+</table>
+
+### 2700. Clojure Data Analysis Cookbook
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="Clojure Data Analysis Cookbook" src="http://it-ebooks.info/images/ebooks/14/clojure_data_analysis_cookbook.jpg">
+        </td>
+        <td>Author:</td>
+        <td>Eric Rochester</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-1-78216-264-3</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>3.5 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>342</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2013</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>Packt Publishing</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download Clojure Data Analysis Cookbook pdf" href="http://www.eazydoc.com/3ui">http://www.eazydoc.com/3ui</a></td>
     </tr>
 </table>
 

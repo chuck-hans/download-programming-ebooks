@@ -3562,3 +3562,39 @@
     </tr>
 </table>
 
+### 100. Fonts and Encodings
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="Fonts and Encodings" src="http://it-ebooks.info/images/ebooks/3/fonts_and_encodings.jpg">
+        </td>
+        <td>Author:</td>
+        <td>Yannis Haralambous</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-0-596-10242-5</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>40.7 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>1040</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2007</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>O'Reilly Media</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download Fonts and Encodings pdf" href="http://www.eazydoc.com/te">http://www.eazydoc.com/te</a></td>
+    </tr>
+</table>
+

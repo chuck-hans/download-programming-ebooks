@@ -1,39 +1,3 @@
-### 1900. Professional Alfresco
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="Professional Alfresco" src="http://it-ebooks.info/images/ebooks/2/professional_alfresco.jpg">
-        </td>
-        <td>Author:</td>
-        <td>David Caruana, John Newton, Michael Farman, Michael Uzquiano, Kevin Roast</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-0-470-57104-0</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>18.3 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>576</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2010</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>Wrox</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download Professional Alfresco pdf" href="http://www.eazydoc.com/3hp">http://www.eazydoc.com/3hp</a></td>
-    </tr>
-</table>
-
 ### 1901. Professional SharePoint 2013 Development
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download Windows 8 MVVM Patterns Revealed pdf" href="http://www.eazydoc.com/3j0">http://www.eazydoc.com/3j0</a></td>
+    </tr>
+</table>
+
+### 2000. TypeScript Revealed
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="TypeScript Revealed" src="http://it-ebooks.info/images/ebooks/6/typescript_revealed.jpg">
+        </td>
+        <td>Author:</td>
+        <td>Dan Maharry</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-1-4302-5725-7</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>3.7 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2013</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>Apress</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download TypeScript Revealed pdf" href="http://www.eazydoc.com/3j1">http://www.eazydoc.com/3j1</a></td>
     </tr>
 </table>
 

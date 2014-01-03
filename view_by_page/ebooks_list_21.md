@@ -1,39 +1,3 @@
-### 2000. TypeScript Revealed
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="TypeScript Revealed" src="http://it-ebooks.info/images/ebooks/6/typescript_revealed.jpg">
-        </td>
-        <td>Author:</td>
-        <td>Dan Maharry</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-1-4302-5725-7</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>3.7 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>104</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2013</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>Apress</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download TypeScript Revealed pdf" href="http://www.eazydoc.com/3j1">http://www.eazydoc.com/3j1</a></td>
-    </tr>
-</table>
-
 ### 2001. The Definitive Guide to HTML5 WebSocket
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download Surface For Dummies pdf" href="http://www.eazydoc.com/8xc">http://www.eazydoc.com/8xc</a></td>
+    </tr>
+</table>
+
+### 2100. Statistical Analysis with Excel For Dummies, 3rd Edition
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="Statistical Analysis with Excel For Dummies, 3rd Edition" src="http://it-ebooks.info/images/ebooks/9/statistical_analysis_with_excel_for_dummies_3rd_edition.jpg">
+        </td>
+        <td>Author:</td>
+        <td>Joseph Schmuller</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-1-118-46431-1</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>47.7 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>528</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2013</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>Wiley</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download Statistical Analysis with Excel For Dummies, 3rd Edition pdf" href="http://www.eazydoc.com/8xd">http://www.eazydoc.com/8xd</a></td>
     </tr>
 </table>
 

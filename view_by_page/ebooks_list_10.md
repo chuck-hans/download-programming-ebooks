@@ -1,39 +1,3 @@
-### 900. Think Python
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="Think Python" src="http://it-ebooks.info/images/ebooks/3/think_python.jpg">
-        </td>
-        <td>Author:</td>
-        <td>Allen B. Downey</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-1-4493-3072-9</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>12.8 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>300</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2012</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>O'Reilly Media</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download Think Python pdf" href="http://www.eazydoc.com/31h">http://www.eazydoc.com/31h</a></td>
-    </tr>
-</table>
-
 ### 901. Learning PHP, MySQL, JavaScript, and CSS, 2nd Edition
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download Understanding IPv6, 3rd Edition pdf" href="http://www.eazydoc.com/5Ea">http://www.eazydoc.com/5Ea</a></td>
+    </tr>
+</table>
+
+### 1000. Introducing Windows 8
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="Introducing Windows 8" src="http://it-ebooks.info/images/ebooks/8/introducing_windows_8.jpg">
+        </td>
+        <td>Author:</td>
+        <td>Jerry Honeycutt</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-0-7356-7050-1</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>7 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>200</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>978</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>Microsoft Press</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download Introducing Windows 8 pdf" href="http://www.eazydoc.com/5Eb">http://www.eazydoc.com/5Eb</a></td>
     </tr>
 </table>
 

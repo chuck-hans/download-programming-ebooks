@@ -1,39 +1,3 @@
-### 1100. Gradle Effective Implementation Guide
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="Gradle Effective Implementation Guide" src="http://it-ebooks.info/images/ebooks/14/gradle_effective_implementation_guide.jpg">
-        </td>
-        <td>Author:</td>
-        <td>Hubert Klein Ikkink</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-1-8495-1810-9</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>8.9 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>382</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2012</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>Packt Publishing</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download Gradle Effective Implementation Guide pdf" href="http://www.eazydoc.com/34v">http://www.eazydoc.com/34v</a></td>
-    </tr>
-</table>
-
 ### 1101. Excel Programming with VBA Starter
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download Learning OpenGL ES for iOS pdf" href="http://www.eazydoc.com/366">http://www.eazydoc.com/366</a></td>
+    </tr>
+</table>
+
+### 1200. Java EE 6 Cookbook for Securing, Tuning, and Extending Enterprise Applications
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="Java EE 6 Cookbook for Securing, Tuning, and Extending Enterprise Applications" src="http://it-ebooks.info/images/ebooks/14/java_ee_6_cookbook_for_securing_tuning_and_extending_enterprise_applications.jpg">
+        </td>
+        <td>Author:</td>
+        <td>Mick Knutson</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-1-8496-8316-6</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>29.2 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>356</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2012</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>Packt Publishing</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download Java EE 6 Cookbook for Securing, Tuning, and Extending Enterprise Applications pdf" href="http://www.eazydoc.com/367">http://www.eazydoc.com/367</a></td>
     </tr>
 </table>
 

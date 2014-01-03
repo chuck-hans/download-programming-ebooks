@@ -1,39 +1,3 @@
-### 600. Learning Android
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="Learning Android" src="http://it-ebooks.info/images/ebooks/3/learning_android.jpg">
-        </td>
-        <td>Author:</td>
-        <td>Marko Gargenta</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-1-4493-9050-1</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>4.71 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>268</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2011</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>O'Reilly Media</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download Learning Android pdf" href="http://www.eazydoc.com/2Wr">http://www.eazydoc.com/2Wr</a></td>
-    </tr>
-</table>
-
 ### 601. Canvas Pocket Reference
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download SQL Server DMVs in Action pdf" href="http://www.eazydoc.com/2Y2">http://www.eazydoc.com/2Y2</a></td>
+    </tr>
+</table>
+
+### 700. Practical Computer Vision with SimpleCV
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="Practical Computer Vision with SimpleCV" src="http://it-ebooks.info/images/ebooks/3/practical_computer_vision_with_simplecv.jpg">
+        </td>
+        <td>Author:</td>
+        <td>Kurt Demaagd, Anthony Oliver, Nathan Oostendorp, Katherine Scott</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-1-4493-2036-2</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>39.8 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>200</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2012</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>O'Reilly Media</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download Practical Computer Vision with SimpleCV pdf" href="http://www.eazydoc.com/2Y3">http://www.eazydoc.com/2Y3</a></td>
     </tr>
 </table>
 

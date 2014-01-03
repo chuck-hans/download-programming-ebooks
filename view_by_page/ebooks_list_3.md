@@ -1,39 +1,3 @@
-### 200. Building Embedded Linux Systems, 2nd Edition
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="Building Embedded Linux Systems, 2nd Edition" src="http://it-ebooks.info/images/ebooks/3/building_embedded_linux_systems_second_edition.jpg">
-        </td>
-        <td>Author:</td>
-        <td>Karim Yaghmour, Jon Masters, Gilad Ben-Yossef, Philippe Gerum</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-0-596-52968-0</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>4.22 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>464</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2008</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>O'Reilly Media</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download Building Embedded Linux Systems, 2nd Edition pdf" href="http://www.eazydoc.com/KY">http://www.eazydoc.com/KY</a></td>
-    </tr>
-</table>
-
 ### 201. Creating iPhone Apps with Cocoa Touch: The Mini Missing Manual
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download Intellectual Property and Open Source pdf" href="http://www.eazydoc.com/2RA">http://www.eazydoc.com/2RA</a></td>
+    </tr>
+</table>
+
+### 300. GNU Emacs Pocket Reference
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="GNU Emacs Pocket Reference" src="http://it-ebooks.info/images/ebooks/3/gnu_emacs_pocket_reference.jpg">
+        </td>
+        <td>Author:</td>
+        <td>Debra Cameron</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-1-56592-496-3</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>0.7 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>62</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>1998</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>O'Reilly Media</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download GNU Emacs Pocket Reference pdf" href="http://www.eazydoc.com/2RB">http://www.eazydoc.com/2RB</a></td>
     </tr>
 </table>
 

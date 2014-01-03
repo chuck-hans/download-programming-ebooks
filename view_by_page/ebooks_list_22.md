@@ -1,39 +1,3 @@
-### 2100. Statistical Analysis with Excel For Dummies, 3rd Edition
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="Statistical Analysis with Excel For Dummies, 3rd Edition" src="http://it-ebooks.info/images/ebooks/9/statistical_analysis_with_excel_for_dummies_3rd_edition.jpg">
-        </td>
-        <td>Author:</td>
-        <td>Joseph Schmuller</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-1-118-46431-1</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>47.7 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>528</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2013</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>Wiley</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download Statistical Analysis with Excel For Dummies, 3rd Edition pdf" href="http://www.eazydoc.com/8xd">http://www.eazydoc.com/8xd</a></td>
-    </tr>
-</table>
-
 ### 2101. Excel Formulas and Functions For Dummies, 3rd Edition
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download Think Like a Programmer pdf" href="http://www.eazydoc.com/3me">http://www.eazydoc.com/3me</a></td>
+    </tr>
+</table>
+
+### 2200. Super Scratch Programming Adventure!
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="Super Scratch Programming Adventure!" src="http://it-ebooks.info/images/ebooks/15/super_scratch_programming_adventure.jpg">
+        </td>
+        <td>Author:</td>
+        <td>The LEAD Project</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-1-59327-409-2</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>78.3 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>160</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2012</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>No Starch Press</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download Super Scratch Programming Adventure! pdf" href="http://www.eazydoc.com/3mf">http://www.eazydoc.com/3mf</a></td>
     </tr>
 </table>
 

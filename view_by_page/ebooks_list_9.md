@@ -1,39 +1,3 @@
-### 800. Inside Windows Debugging
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="Inside Windows Debugging" src="http://it-ebooks.info/images/ebooks/8/inside_windows_debugging.jpg">
-        </td>
-        <td>Author:</td>
-        <td>Tarik Soulami</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-0-7356-6278-0</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>37.3 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>592</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2012</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>Microsoft Press</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download Inside Windows Debugging pdf" href="http://www.eazydoc.com/5AX">http://www.eazydoc.com/5AX</a></td>
-    </tr>
-</table>
-
 ### 801. Planning and Managing Drupal Projects
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download Head First HTML and CSS, 2nd Edition pdf" href="http://www.eazydoc.com/31g">http://www.eazydoc.com/31g</a></td>
+    </tr>
+</table>
+
+### 900. Think Python
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="Think Python" src="http://it-ebooks.info/images/ebooks/3/think_python.jpg">
+        </td>
+        <td>Author:</td>
+        <td>Allen B. Downey</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-1-4493-3072-9</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>12.8 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>300</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2012</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>O'Reilly Media</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download Think Python pdf" href="http://www.eazydoc.com/31h">http://www.eazydoc.com/31h</a></td>
     </tr>
 </table>
 

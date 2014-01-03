@@ -1,39 +1,3 @@
-### 2300. Software Projects Secrets
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="Software Projects Secrets" src="http://it-ebooks.info/images/ebooks/6/software_projects_secrets.jpg">
-        </td>
-        <td>Author:</td>
-        <td>George Stepanek</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-1-4302-5101-9</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>3.7 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>184</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2012</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>Apress</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download Software Projects Secrets pdf" href="http://www.eazydoc.com/8Ar">http://www.eazydoc.com/8Ar</a></td>
-    </tr>
-</table>
-
 ### 2301. Beginning Database Design, 2nd Edition
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download HTML5 Programming with JavaScript For Dummies pdf" href="http://www.eazydoc.com/3ps">http://www.eazydoc.com/3ps</a></td>
+    </tr>
+</table>
+
+### 2400. HTML5 Game Development For Dummies
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="HTML5 Game Development For Dummies" src="http://it-ebooks.info/images/ebooks/9/html5_game_development_for_dummies.jpg">
+        </td>
+        <td>Author:</td>
+        <td>Andy Harris</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-1-118-07476-3</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>33.6 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>384</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2013</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>Wiley</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download HTML5 Game Development For Dummies pdf" href="http://www.eazydoc.com/3pt">http://www.eazydoc.com/3pt</a></td>
     </tr>
 </table>
 

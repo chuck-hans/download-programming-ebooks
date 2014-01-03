@@ -1,39 +1,3 @@
-### 1200. Java EE 6 Cookbook for Securing, Tuning, and Extending Enterprise Applications
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="Java EE 6 Cookbook for Securing, Tuning, and Extending Enterprise Applications" src="http://it-ebooks.info/images/ebooks/14/java_ee_6_cookbook_for_securing_tuning_and_extending_enterprise_applications.jpg">
-        </td>
-        <td>Author:</td>
-        <td>Mick Knutson</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-1-8496-8316-6</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>29.2 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>356</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2012</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>Packt Publishing</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download Java EE 6 Cookbook for Securing, Tuning, and Extending Enterprise Applications pdf" href="http://www.eazydoc.com/367">http://www.eazydoc.com/367</a></td>
-    </tr>
-</table>
-
 ### 1201. Java 7 New Features Cookbook
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download Beginning iOS 5 Games Development pdf" href="http://www.eazydoc.com/5J0">http://www.eazydoc.com/5J0</a></td>
+    </tr>
+</table>
+
+### 1300. Beginning WebGL for HTML5
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="Beginning WebGL for HTML5" src="http://it-ebooks.info/images/ebooks/6/beginning_webgl_for_html5.jpg">
+        </td>
+        <td>Author:</td>
+        <td>Brian Danchilla</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-1-4302-3996-3</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>11.5 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>356</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2012</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>Apress</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download Beginning WebGL for HTML5 pdf" href="http://www.eazydoc.com/5J1">http://www.eazydoc.com/5J1</a></td>
     </tr>
 </table>
 

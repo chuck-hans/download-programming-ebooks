@@ -1,39 +1,3 @@
-### 2400. HTML5 Game Development For Dummies
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="HTML5 Game Development For Dummies" src="http://it-ebooks.info/images/ebooks/9/html5_game_development_for_dummies.jpg">
-        </td>
-        <td>Author:</td>
-        <td>Andy Harris</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-1-118-07476-3</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>33.6 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>384</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2013</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>Wiley</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download HTML5 Game Development For Dummies pdf" href="http://www.eazydoc.com/3pt">http://www.eazydoc.com/3pt</a></td>
-    </tr>
-</table>
-
 ### 2401. Windows Presentation Foundation Unleashed
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download Rethinking Enterprise Storage: A Hybrid Cloud Model pdf" href="http://www.eazydoc.com/3r4">http://www.eazydoc.com/3r4</a></td>
+    </tr>
+</table>
+
+### 2500. Windows PowerShell 3.0 First Steps
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="Windows PowerShell 3.0 First Steps" src="http://it-ebooks.info/images/ebooks/8/windows_powershell_3.0_first_steps.jpg">
+        </td>
+        <td>Author:</td>
+        <td>Ed Wilson</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-0-73568-100-2</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>18.9 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>280</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2013</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>Microsoft Press</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download Windows PowerShell 3.0 First Steps pdf" href="http://www.eazydoc.com/3r5">http://www.eazydoc.com/3r5</a></td>
     </tr>
 </table>
 

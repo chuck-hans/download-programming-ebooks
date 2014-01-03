@@ -1,39 +1,3 @@
-### 2200. Super Scratch Programming Adventure!
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="Super Scratch Programming Adventure!" src="http://it-ebooks.info/images/ebooks/15/super_scratch_programming_adventure.jpg">
-        </td>
-        <td>Author:</td>
-        <td>The LEAD Project</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-1-59327-409-2</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>78.3 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>160</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2012</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>No Starch Press</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download Super Scratch Programming Adventure! pdf" href="http://www.eazydoc.com/3mf">http://www.eazydoc.com/3mf</a></td>
-    </tr>
-</table>
-
 ### 2201. Python for Kids
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download Pro SQL Server 2012 Integration Services pdf" href="http://www.eazydoc.com/8Aq">http://www.eazydoc.com/8Aq</a></td>
+    </tr>
+</table>
+
+### 2300. Software Projects Secrets
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="Software Projects Secrets" src="http://it-ebooks.info/images/ebooks/6/software_projects_secrets.jpg">
+        </td>
+        <td>Author:</td>
+        <td>George Stepanek</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-1-4302-5101-9</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>3.7 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>184</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2012</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>Apress</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download Software Projects Secrets pdf" href="http://www.eazydoc.com/8Ar">http://www.eazydoc.com/8Ar</a></td>
     </tr>
 </table>
 

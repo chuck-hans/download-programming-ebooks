@@ -1,39 +1,3 @@
-### 1000. Introducing Windows 8
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="Introducing Windows 8" src="http://it-ebooks.info/images/ebooks/8/introducing_windows_8.jpg">
-        </td>
-        <td>Author:</td>
-        <td>Jerry Honeycutt</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-0-7356-7050-1</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>7 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>200</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>978</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>Microsoft Press</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download Introducing Windows 8 pdf" href="http://www.eazydoc.com/5Eb">http://www.eazydoc.com/5Eb</a></td>
-    </tr>
-</table>
-
 ### 1001. Hello! HTML5 & CSS3
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download Microsoft Windows PowerShell 3.0 First Look pdf" href="http://www.eazydoc.com/34u">http://www.eazydoc.com/34u</a></td>
+    </tr>
+</table>
+
+### 1100. Gradle Effective Implementation Guide
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="Gradle Effective Implementation Guide" src="http://it-ebooks.info/images/ebooks/14/gradle_effective_implementation_guide.jpg">
+        </td>
+        <td>Author:</td>
+        <td>Hubert Klein Ikkink</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-1-8495-1810-9</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>8.9 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>382</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2012</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>Packt Publishing</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download Gradle Effective Implementation Guide pdf" href="http://www.eazydoc.com/34v">http://www.eazydoc.com/34v</a></td>
     </tr>
 </table>
 

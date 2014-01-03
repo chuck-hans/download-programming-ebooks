@@ -1,39 +1,3 @@
-### 1700. Implementing Cisco Unified Communications Voice over IP and QoS (Cvoice), 4th Edition
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="Implementing Cisco Unified Communications Voice over IP and QoS (Cvoice), 4th Edition" src="http://it-ebooks.info/images/ebooks/11/implementing_cisco_unified_communications_voice_over_ip_and_qos_cvoice_4th_edition.jpg">
-        </td>
-        <td>Author:</td>
-        <td>Kevin Wallace</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-1-58720-419-7</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>15.3 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>736</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2011</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>Cisco Press</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download Implementing Cisco Unified Communications Voice over IP and QoS (Cvoice), 4th Edition pdf" href="http://www.eazydoc.com/3eb">http://www.eazydoc.com/3eb</a></td>
-    </tr>
-</table>
-
 ### 1701. Nagios
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download Beginning SharePoint 2013 pdf" href="http://www.eazydoc.com/5R4">http://www.eazydoc.com/5R4</a></td>
+    </tr>
+</table>
+
+### 1800. History of Programming Languages
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="History of Programming Languages" src="http://it-ebooks.info/images/ebooks/10/history_of_programming_languages.jpg">
+        </td>
+        <td>Author:</td>
+        <td>Thomas J. Bergin, Richard G. Gibson</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-0-201-89502-5</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>20.5 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>864</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>1996</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>Addison-Wesley</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download History of Programming Languages pdf" href="http://www.eazydoc.com/5R5">http://www.eazydoc.com/5R5</a></td>
     </tr>
 </table>
 

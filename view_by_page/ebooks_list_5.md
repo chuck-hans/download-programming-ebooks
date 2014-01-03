@@ -1,39 +1,3 @@
-### 400. JavaScript: The Definitive Guide, 6th Edition
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="JavaScript: The Definitive Guide, 6th Edition" src="http://it-ebooks.info/images/ebooks/3/javascript_the_definitive_guide_6th_edition.jpg">
-        </td>
-        <td>Author:</td>
-        <td>David Flanagan</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-0-596-80552-4</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>13.4 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>1098</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2011</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>O'Reilly Media</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download JavaScript: The Definitive Guide, 6th Edition pdf" href="http://www.eazydoc.com/2Td">http://www.eazydoc.com/2Td</a></td>
-    </tr>
-</table>
-
 ### 401. Photoshop Elements 10: The Missing Manual
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download Beginning Java EE 6 with GlassFish 3, 2nd Edition pdf" href="http://www.eazydoc.com/5w6">http://www.eazydoc.com/5w6</a></td>
+    </tr>
+</table>
+
+### 500. Beginning WF
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="Beginning WF" src="http://it-ebooks.info/images/ebooks/6/beginning_wf.jpg">
+        </td>
+        <td>Author:</td>
+        <td>Mark Collins, Mark J. Collins</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-1-4302-2485-3</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>5.25 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>500</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2009</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>Apress</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download Beginning WF pdf" href="http://www.eazydoc.com/5w7">http://www.eazydoc.com/5w7</a></td>
     </tr>
 </table>
 

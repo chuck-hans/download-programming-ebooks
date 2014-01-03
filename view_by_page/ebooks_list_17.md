@@ -1,39 +1,3 @@
-### 1600. OSGi in Depth
-
-<table>
-    <tr>
-        <td rowspan="7">
-            <img alt="OSGi in Depth" src="http://it-ebooks.info/images/ebooks/5/osgi_in_depth.jpg">
-        </td>
-        <td>Author:</td>
-        <td>Alexandre de Castro Alves, David Bosschaert</td>
-    </tr>
-    <tr>
-        <td>ISBN:</td>
-        <td>978-1-93518-217-7</td>
-    </tr>
-    <tr>
-        <td>Size:</td>
-        <td>11.8 MB</td>
-    </tr>
-    <tr>
-        <td>Pages:</td>
-        <td>392</td>
-    </tr>
-    <tr>
-        <td>Year:</td>
-        <td>2011</td>
-    </tr>
-    <tr>
-        <td>Publisher:</td>
-        <td>Manning</td>
-    </tr>
-    <tr>
-        <td>Download:</td>
-        <td><a title="Download OSGi in Depth pdf" href="http://www.eazydoc.com/3cz">http://www.eazydoc.com/3cz</a></td>
-    </tr>
-</table>
-
 ### 1601. Learning MySQL
 
 <table>
@@ -3595,6 +3559,42 @@
     <tr>
         <td>Download:</td>
         <td><a title="Download Network Security Auditing pdf" href="http://www.eazydoc.com/3ea">http://www.eazydoc.com/3ea</a></td>
+    </tr>
+</table>
+
+### 1700. Implementing Cisco Unified Communications Voice over IP and QoS (Cvoice), 4th Edition
+
+<table>
+    <tr>
+        <td rowspan="7">
+            <img alt="Implementing Cisco Unified Communications Voice over IP and QoS (Cvoice), 4th Edition" src="http://it-ebooks.info/images/ebooks/11/implementing_cisco_unified_communications_voice_over_ip_and_qos_cvoice_4th_edition.jpg">
+        </td>
+        <td>Author:</td>
+        <td>Kevin Wallace</td>
+    </tr>
+    <tr>
+        <td>ISBN:</td>
+        <td>978-1-58720-419-7</td>
+    </tr>
+    <tr>
+        <td>Size:</td>
+        <td>15.3 MB</td>
+    </tr>
+    <tr>
+        <td>Pages:</td>
+        <td>736</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2011</td>
+    </tr>
+    <tr>
+        <td>Publisher:</td>
+        <td>Cisco Press</td>
+    </tr>
+    <tr>
+        <td>Download:</td>
+        <td><a title="Download Implementing Cisco Unified Communications Voice over IP and QoS (Cvoice), 4th Edition pdf" href="http://www.eazydoc.com/3eb">http://www.eazydoc.com/3eb</a></td>
     </tr>
 </table>
 
