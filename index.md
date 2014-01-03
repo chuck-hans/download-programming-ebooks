@@ -1,9 +1,9 @@
 # Index
 
 ## [1 - 100 eBooks](view_by_page/ebooks_list_1.md)
-	* [A Peek at Computer Electronics](view_by_page/ebooks_list_1.md#a-peek-at-computer-electronics)
-	* [Advanced Rails Recipes](view_by_page/ebooks_list_1.md#advanced-rails-recipes)
-	* [Agile Web Development with Rails, 3rd Edition](view_by_page/ebooks_list_1.md#agile-web-development-with-rails-3rd-edition)
+	* [A Peek at Computer Electronics](/view_by_page/ebooks_list_1.md#a-peek-at-computer-electronics)
+	* [Advanced Rails Recipes](/view_by_page/ebooks_list_1.md#advanced-rails-recipes)
+	* [Agile Web Development with Rails, 3rd Edition](/view_by_page/ebooks_list_1.md#agile-web-development-with-rails-3rd-edition)
 	* [Agile Web Development with Rails, 4th Edition](view_by_page/ebooks_list_1.md#agile-web-development-with-rails-4th-edition)
 	* [Arduino](view_by_page/ebooks_list_1.md#arduino)
 	* [Beginning Mac Programming](view_by_page/ebooks_list_1.md#beginning-mac-programming)
